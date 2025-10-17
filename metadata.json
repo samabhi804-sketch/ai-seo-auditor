@@ -1,0 +1,5 @@
+{
+  "name": "AI SEO Auditor",
+  "description": "An intelligent SEO review tool that uses the Gemini API to analyze any website and provide a comprehensive report with actionable feedback to improve search engine rankings.",
+  "requestFramePermissions": []
+}
